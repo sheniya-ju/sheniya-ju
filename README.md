@@ -93,25 +93,6 @@ I enjoy learning new technologies, developing practical projects, and continuous
 
 ---
 
-## 📊 Data & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Python for Data Analysis
-- Excel
-- Advanced Excel
-- Data Cleaning
-- Data Visualization
-- Power BI
-- SQL
-- Statistics
-- Basic Machine Learning
-- Jupyter Notebook
-
----
-
 ## ☁️ Cloud & Deployment
 
 - Render
@@ -189,17 +170,6 @@ I enjoy learning new technologies, developing practical projects, and continuous
 - Power BI
 - Excel
 - Basic Machine Learning
-
-### Other Computer Science Topics
-- DBMS
-- NoSQL
-- Cloud Computing
-- DevOps
-- Software Engineering
-- Compiler Design
-- Data Visualization
-- UI/UX
-
 ---
 
 # 🚀 Featured Projects

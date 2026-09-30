@@ -218,6 +218,8 @@ A full-stack leave management system for employees and managers.
 
 `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Pydantic` `JWT` `HTML` `CSS` `JavaScript`
 
+🔗 **Live:** https://leave-floww.netlify.app/
+
 ---
 
 ## 🚌 TN Bus Tracker & Management System

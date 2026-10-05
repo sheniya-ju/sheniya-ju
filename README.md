@@ -239,7 +239,7 @@ A real-time bus tracking and management system.
 - Complaints
 - Firebase integration
 - Interactive maps
-- 
+  
 🔗 **Live:** https://tn-tracker.netlify.app/
 
 ---

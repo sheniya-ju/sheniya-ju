@@ -1,26 +1,24 @@
 # 👋 Hi, I'm Sheniya!
 
-### 💻 Information Technology Graduate | Full-Stack Developer | Data Science Enthusiast
+### 💻 Information Technology Graduate | Full-Stack Developer | AI Application Developer
 
-I’m an Information Technology graduate with an Honours specialization in Data Science, passionate about building web applications, backend APIs, interactive projects, and data-driven solutions.
+I'm an Information Technology graduate with an Honours specialization in Data Science, passionate about building full-stack web applications, AI-powered assistants, backend APIs, and workflow automation solutions.
 
-I enjoy learning new technologies, developing practical projects, and continuously improving my software development skills.
+I enjoy turning ideas into practical applications using Python, FastAPI, React, PostgreSQL, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and n8n.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech Information Technology — Honours in Data Science
-- 💻 Interested in Full-Stack Development
-- 🐍 Currently strengthening my Python & FastAPI skills
-- 🌐 Interested in modern Web Development
-- 📊 Interested in Data Science, Data Visualization & BI
+- 💼 Currently working as a Full Stack AI Developer Intern at Reflections Info Systems Pvt. Ltd.
+- 💻 Interested in Full-Stack and Software Development
+- 🤖 Exploring AI applications, LLMs, RAG, and workflow automation
+- 🐍 Strengthening my Python and FastAPI skills
+- 🌐 Building responsive web applications and REST APIs
 - 🗄️ Learning database design and backend development
-- 🎮 Built a full-stack Flying Bird Game
-- 🚌 Built a real-time TN Bus Tracking & Management System
-- 📋 Built a Leave Management System
-- 🛒 Built an E-Commerce Website
-- 🌱 Always learning and building new projects
+- ⚙️ Building AI-powered automations using n8n and Docker
+- 🌱 Always learning, experimenting, and building new projects
 
 ---
 
@@ -38,26 +36,18 @@ I enjoy learning new technologies, developing practical projects, and continuous
 - JavaScript
 - TypeScript
 
----
-
 ## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite" />
 </p>
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- TypeScript
-- React
-- Vite
+- HTML5, CSS3, Bootstrap
+- JavaScript and TypeScript
+- React and Vite
 - Responsive Web Design
 - DOM Manipulation
 - Canvas API
-
----
 
 ## ⚙️ Backend Development
 
@@ -65,16 +55,13 @@ I enjoy learning new technologies, developing practical projects, and continuous
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
 </p>
 
-- Python
-- FastAPI
+- Python and FastAPI
 - Node.js
-- REST APIs
+- REST API Development and Integration
+- Authentication and Authorization
 - JWT Authentication
-- API Integration
 - CRUD Operations
-- Authentication & Authorization
-
----
+- Pydantic and SQLAlchemy
 
 ## 🗄️ Databases
 
@@ -86,24 +73,35 @@ I enjoy learning new technologies, developing practical projects, and continuous
 - MongoDB
 - Firebase Realtime Database
 - SQL
-- Database Design
-- Primary Keys & Foreign Keys
-- Relationships
+- Database Design and Relationships
 - SQLAlchemy ORM
 
----
+## 🤖 AI & Workflow Automation
 
-## ☁️ Cloud & Deployment
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- PDF Processing and Document Question Answering
+- Chroma Vector Database
+- LLM API Integration
+- OpenRouter
+- n8n Workflow Automation
+- AI-Based Request Classification
+- Automated Workflow Routing
 
+## ☁️ Cloud, Deployment & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+- Docker
 - Render
 - Netlify
+- Vercel
 - Firebase
 - PostgreSQL Cloud Database
 - Environment Variables
-- Production Deployment
-- REST API Deployment
-
----
+- Application Deployment
 
 ## 🔧 Tools & Development
 
@@ -111,14 +109,23 @@ I enjoy learning new technologies, developing practical projects, and continuous
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-- Git
-- GitHub
+- Git and GitHub
 - VS Code
 - Postman
 - Swagger / OpenAPI
 - npm
 - Vite
 - Uvicorn
+- n8n
+
+## 📊 Data & Analytics
+
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Statistics
+- Basic Machine Learning
 
 ---
 
@@ -126,196 +133,135 @@ I enjoy learning new technologies, developing practical projects, and continuous
 
 ### Programming
 - Object-Oriented Programming
-- Data Structures & Algorithms
+- Data Structures and Algorithms
 - Exception Handling
 - File Handling
-- Functions & Modules
+- Functions and Modules
 - Type Safety
 
 ### Web Development
 - Responsive Design
 - Component-Based Development
 - Client-Server Architecture
-- REST APIs
-- HTTP Methods
-- Authentication
-- Authorization
+- REST APIs and HTTP Methods
+- Authentication and Authorization
 - API Integration
 
-### Backend
-- FastAPI
-- Pydantic
-- SQLAlchemy
-- JWT
-- CRUD
+### Backend Development
+- FastAPI and Pydantic
+- SQLAlchemy ORM
+- JWT Authentication
+- CRUD Operations
 - API Routing
-- Middleware
-- CORS
+- Middleware and CORS
 - Database Relationships
 
 ### Databases
-- SQL
-- PostgreSQL
+- SQL and PostgreSQL
 - MongoDB
 - Firebase Realtime Database
-- Primary Keys
-- Foreign Keys
+- Primary and Foreign Keys
 - One-to-Many Relationships
 - ORM
 
-### Data
-- Data Cleaning
-- Data Visualization
-- Statistics
-- Power BI
-- Excel
-- Basic Machine Learning
 ---
 
 # 🚀 Featured Projects
 
-## 🐦 Flying Bird Game
+## 🤖 AUREX AI — Full-Stack AI Assistant
 
-A responsive full-stack browser game developed using React, TypeScript, HTML Canvas, FastAPI, SQLAlchemy and PostgreSQL.
+Developed a full-stack AI chatbot featuring Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) for document-based question answering. Implemented PDF uploads, conversation history, source references, and page-level citations.
 
-### Features
-- 50 levels
-- Multiple birds
-- Multiple animated worlds
-- Game physics
-- Collision detection
-- Gems
-- Power-ups
-- Achievements
-- Daily rewards
-- Daily missions
-- JWT authentication
-- Global leaderboard
-- Responsive design
+**Technologies:** React, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Chroma, Groq API
 
-🔗 **Live:** https://flying-bird-game.onrender.com
+🔗 **Live:** https://aurex-ai-gray.vercel.app/
 
----
+## ⚙️ AI Office Assistant — n8n Workflow Automation
+
+Developed an AI-powered Office Assistant using n8n and Large Language Models (LLMs) to automate employee request classification and workflow routing. Implemented request categorization for Leave, IT Support, Payroll, HR, and Other, with conditional routing logic and manager notification emails containing the original employee message and suggested next steps.
+
+**Technologies:** n8n, OpenRouter, Docker, Google Drive, Gmail
+
+🔗 **GitHub:** https://github.com/sheniya-ju/n8n-ai-office-assistant
+
+## 🐦 FlyBird — Flying Bird Game
+
+Developed a responsive browser game using React and TypeScript, featuring keyboard and touch controls, customizable birds and backgrounds, progressive levels, collectible gems, and game physics.
+
+**Technologies:** React, TypeScript, HTML, CSS
+
+🔗 **Live:** https://flying-bird-game.onrender.com/
 
 ## 📋 LeaveFlow — Leave Management System
 
-A full-stack leave management system for employees and managers.
+Developed a leave management application for employees and managers, featuring authentication, leave applications, leave-balance tracking, approval and rejection workflows, and calendar-based leave status indicators.
 
-### Features
-- Employee registration and login
-- Manager authentication
-- Leave application
-- Leave approval/rejection
-- Leave balance
-- Leave history
-- Dashboard
-- Calendar
-- Email functionality
-- JWT authentication
-- PostgreSQL database
-
-### Technologies
-
-`FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Pydantic` `JWT` `HTML` `CSS` `JavaScript`
+**Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, HTML, CSS, JavaScript
 
 🔗 **Live:** https://leave-floww.netlify.app/
 
----
-
 ## 🚌 TN Bus Tracker & Management System
 
-A real-time bus tracking and management system.
+Developed a map-based bus tracking and transport management application with real-time database updates, location visualization, and route management features.
 
-### Technologies
+**Technologies:** HTML, CSS, JavaScript, Firebase Realtime Database, Leaflet
 
-`HTML` `CSS` `JavaScript` `Firebase Realtime Database` `Leaflet`
-
-### Features
-
-- Real-time bus tracking
-- Driver location tracking
-- Route management
-- User management
-- Complaints
-- Firebase integration
-- Interactive maps
-  
 🔗 **Live:** https://tn-tracker.netlify.app/
-
----
 
 ## 🛒 E-Commerce Website
 
-A responsive e-commerce website developed using modern frontend technologies.
+Built a responsive e-commerce website using modern frontend technologies.
 
-### Technologies
+**Technologies:** HTML, CSS, JavaScript, React
 
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 https://shen-ecommerce.netlify.app
-
----
+🔗 **Live:** https://shen-ecommerce.netlify.app/
 
 ## 💼 Personal Portfolio Website
 
-A responsive personal portfolio website showcasing my skills, projects and experience.
+Created a responsive portfolio website to showcase my technical skills, projects, and professional experience.
 
-### Technologies
-
-`HTML` `CSS` `JavaScript`
-
----
+**Technologies:** HTML, CSS, JavaScript
 
 ## 📊 Trekking Checklist
 
-An Excel-based trekking checklist and management project.
+Created an Excel-based trekking checklist and management tool.
 
-### Technologies
-
-`Microsoft Excel` `Excel Macros`
+**Technologies:** Microsoft Excel, Excel Macros
 
 ---
 
 # 💼 Internship Experience
 
-### NoviTech
+## Reflections Info Systems Pvt. Ltd.
+**Full Stack AI Developer Intern | August 2026 – Present**
 
-**Power BI | SQL | Excel | MongoDB**
+- Developing full-stack web applications using Python, FastAPI, React, and TypeScript.
+- Building and integrating RESTful APIs for backend functionality.
+- Working with PostgreSQL and SQLAlchemy for database management and integration.
+- Exploring LLMs and RAG for AI-powered applications.
 
-Worked with data-related technologies and gained practical experience in:
+## CodeBind Technologies
+**Web Development Intern**
 
-- Power BI
-- SQL
-- Excel
-- MongoDB
-- Data handling and visualization
-
-### CodeBind Technologies
-
-**Web Development Internship**
-
-Worked with:
-
-- HTML
-- CSS
-- Web development fundamentals
+- Created responsive web pages using HTML and CSS.
+- Gained practical experience in web development fundamentals and frontend implementation.
 
 ---
 
 # 📜 Certifications
 
-- 🐍 Python — Udemy
+- 🐍 Python Course — Udemy
 - 🐍 Python — IIT Bombay Spoken Tutorial
 - ☁️ Cloud Computing — NPTEL
+- ⚙️ n8n Automation — Udemy
 
 ---
 
 # 🏆 Achievements
 
-- 🥈 2nd Prize — Web Development Competition
-- 👩‍💼 Class Representative — Final Year
+- 🥈 Second Prize — Web Development Competition
 - 👩‍💻 Active Member — Women's Cell
-- 🎓 B.Tech IT with Honours in Data Science
+- 🎓 B.Tech Information Technology with Honours in Data Science
 
 ---
 
@@ -324,14 +270,25 @@ Worked with:
 ```text
 Python
    ↓
-FastAPI
+FastAPI & REST APIs
    ↓
-SQLAlchemy
+SQLAlchemy & PostgreSQL
    ↓
-PostgreSQL
+Authentication & Authorization
    ↓
-REST APIs
+LLMs & Retrieval-Augmented Generation
    ↓
-JWT Authentication
+n8n Workflow Automation
    ↓
-Full-Stack Development
+Docker & Application Deployment
+   ↓
+Full-Stack AI Application Development
+```
+
+---
+
+### 🌱 My Goal
+
+To build reliable, scalable, and user-focused software applications by combining full-stack development, AI integration, and workflow automation.
+
+**Thanks for visiting my profile!** 🚀

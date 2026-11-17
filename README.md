@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sheniya!
 
-### 💻 Information Technology Graduate | Full-Stack Developer | AI Application Developer
+### 💻 Information Technology Graduate | Full-Stack AI Developer | AI Application Developer
 
 I'm an Information Technology graduate with an Honours specialization in Data Science, passionate about building full-stack web applications, AI-powered assistants, backend APIs, and workflow automation solutions.
 
